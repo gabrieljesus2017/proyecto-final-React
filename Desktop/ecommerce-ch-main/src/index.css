@@ -11,3 +11,7 @@
 .li-class a.active{
     color: #ea580c;
 }
+.fixed-bottom {
+    background-color: black;
+    color: white;
+}

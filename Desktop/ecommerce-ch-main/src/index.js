@@ -6,6 +6,8 @@ import "./index.css";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-    <App />
+    <App /> <div class="fixed-bottom">
+        <small>&copy; cartagena 2022, jesus david sosa</small>
+    </div>
   </>
 );
